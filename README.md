@@ -7,3 +7,9 @@
 Проверка модели - Проверка Модели плохих коммов.ipynb
 
 main.py - Деплой модели через Streamlit
+
+![image](https://github.com/user-attachments/assets/972d494f-7196-45bb-ac81-9db55d5a9e83)
+
+![image](https://github.com/user-attachments/assets/c188d491-cbfc-4f5a-b01c-fefb2402ad17)
+
+
